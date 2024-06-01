@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](Screenshots\image-desktop.png)
-![](Screenshots\image-mobile.png)
+![desktop](Screenshots\image-desktop.png?raw=true)
+![mobile](Screenshots\image-mobile.png?raw=true)
 
 ### Links
 
